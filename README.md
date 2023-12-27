@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Created and updated to latest version of React following along an old Sitepoint mini-eBook from 2021 about making a Rock, Paper, Scissors game from scratch with React.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Created and updated to latest version of React following along an old Sitepoint mini-eBook from 2021 about making a Rock, Paper, Scissors game from scratch with React. [Try demo here.](https://react-rockpaperscissors-wine.vercel.app/)
 
 ### Feature roadmap
 
